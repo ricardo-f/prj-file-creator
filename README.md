@@ -37,7 +37,7 @@ Using a bunch of shell script functions
       ./vulcan.sh basicEnv jenkins
       ```
 ## Why?
-- This one is pure laziness, 
+- This one is pure laziness.
 
 ## Want to help?
 
