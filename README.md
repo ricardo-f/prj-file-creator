@@ -9,7 +9,7 @@ Using a bunch of shell script functions
 
 - Create basic files intended for a lab purposes:
 
-**Note:** The **TF_FILES** var set file names
+**Note:** The **TF_FILES** var set the file name
 ```
 ./vulcan.sh basic
 ```
