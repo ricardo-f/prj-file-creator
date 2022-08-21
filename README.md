@@ -10,7 +10,7 @@ Using a bunch of shell script functions
 **General Notes**
 - The **TF_FILES** var set the file name
 - Inside the script change the value of the env list for terraform tfvars file, the var is **PRJ_ENVS**
-- Inside the _f_gha_files_ function is a var called GHA_FILES, I like to keep CI and CD apart from each other(personal preference)
+- Inside the _f_gha_files_ function is a var called **GHA_FILES**, I like to keep CI and CD apart from each other(personal preference)
 ---
 - Create basic files intended for a lab purposes:
 
