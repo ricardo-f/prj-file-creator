@@ -1,6 +1,8 @@
 # Project File Creator
 ## Objective:
-Create a basic directory and file structure to terraform projects
+Create basic directory and file structure to terraform projects. 
+
+**Note:** My personal approach may not be a best practice.
 
 ## The brief how:
 Using a bunch of shell script functions
@@ -37,7 +39,7 @@ Using a bunch of shell script functions
       ./vulcan.sh basicEnv jenkins
       ```
 ## Why?
-- This one is pure laziness.
+- This one is pure laziness. :wink:
 
 ## Want to help?
 
