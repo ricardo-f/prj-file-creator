@@ -1,6 +1,7 @@
 # Project File Creator
 ## Objective:
 Create a basic directory and file structure to terraform, NodeJs or both projects
+
 **Note:** This is my personal approach may not be a best practice.
 
 ## The brief how:
