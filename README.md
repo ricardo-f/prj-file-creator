@@ -70,4 +70,4 @@ Using a bunch of shell script functions
 ### Extra Docs and Ref:
 - [Why _vulcan_?](https://en.wikipedia.org/wiki/Vulcan_(mythology))
 - [WTF is **EaC**?](https://medium.com/bemobi-tech/terraform-e-eac-125547ecff13)
->> I don't follow EaC by the book, but to me EaC gives shape to the idea of 'You build it, you run it.'
+> I don't follow EaC by the book, but to me EaC gives shape to the idea of 'You build it, you run it.'
