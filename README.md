@@ -8,7 +8,6 @@ Create a basic directory and file structure to terraform, NodeJs or both project
 Using a bunch of shell script functions
 
 ## How?
----
 **General Notes**
 - The **TF_FILES** var set the file name
 - Inside the script change the value of the env list for terraform tfvars file, the var is **PRJ_ENVS**
@@ -64,7 +63,6 @@ Using a bunch of shell script functions
 - This one is pure laziness.
 
 ## Want to help?
-
 - Create your branch
 - Add your code
 - Open a PR with a clear explanation of the changes
