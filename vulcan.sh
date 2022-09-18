@@ -9,7 +9,7 @@ f_create_tf_basic_files() {
     cd terraform
     for file in ${TF_FILES[@]}; do
         touch $file.tf
-    done
+   done
 }
 
 f_create_env_files() {
@@ -24,7 +24,7 @@ f_create_env_files() {
 f_create_nodejs_files() {
     mkdir src
     cd src
-    mkdir models views controllers routes
+    mkdir controllers db models public routes views
     touch index.js
     cd ..
 }
@@ -82,3 +82,4 @@ case $2 in
     *)
     ;;
 esac
+
